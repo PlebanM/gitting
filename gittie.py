@@ -7,3 +7,6 @@ def joke():
     print("Wiecej niz jedno zwierze?")
     time.sleep(2)
     print('OWCA!!! :D')
+
+def add(a, b):
+    print(a+b)
